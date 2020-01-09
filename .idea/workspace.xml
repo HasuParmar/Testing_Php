@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5a557afe-f033-4361-a65a-3b5949695684" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/testing.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,6 +69,7 @@
       <workItem from="1578568683771" duration="307000" />
       <workItem from="1578569014474" duration="1877000" />
       <workItem from="1578570932525" duration="2226000" />
+      <workItem from="1578573187928" duration="465000" />
     </task>
     <task id="LOCAL-00001" summary="test done.">
       <created>1578572597564</created>
@@ -83,7 +85,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578573019023</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="test done.">
+      <created>1578573314959</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1578573314959</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,10 +115,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="413" y="112" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1578493823002" />
-    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1578573018111">
+    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1578573314104">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1578573018111" />
+    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1578573314104" />
     <state x="463" y="120" key="FileChooserDialogImpl" timestamp="1578492544308">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -122,6 +131,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="275" y="98" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1578572934773" />
+    <state x="92" y="92" width="1182" height="544" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1578573653280">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1578573653280" />
     <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1578573188699">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -130,9 +143,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="452" y="0" key="com.jetbrains.php.test.PhpNewTestDialog/0.0.1366.728@0.0.1366.728" timestamp="1578493262061" />
-    <state x="391" y="156" key="git4idea.merge.GitPullDialog" timestamp="1578573241087">
+    <state x="391" y="156" key="git4idea.merge.GitPullDialog" timestamp="1578573334202">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="391" y="156" key="git4idea.merge.GitPullDialog/0.0.1366.728@0.0.1366.728" timestamp="1578573241087" />
+    <state x="391" y="156" key="git4idea.merge.GitPullDialog/0.0.1366.728@0.0.1366.728" timestamp="1578573334202" />
   </component>
 </project>
