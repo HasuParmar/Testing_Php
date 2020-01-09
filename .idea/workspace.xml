@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5a557afe-f033-4361-a65a-3b5949695684" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/testing.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/adduser.php" beforeDir="false" afterPath="$PROJECT_DIR$/adduser.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/update.php" beforeDir="false" afterPath="$PROJECT_DIR$/update.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +70,7 @@
       <workItem from="1578568683771" duration="307000" />
       <workItem from="1578569014474" duration="1877000" />
       <workItem from="1578570932525" duration="2226000" />
-      <workItem from="1578573187928" duration="465000" />
+      <workItem from="1578573187928" duration="2521000" />
     </task>
     <task id="LOCAL-00001" summary="test done.">
       <created>1578572597564</created>
@@ -92,7 +93,21 @@
       <option name="project" value="LOCAL" />
       <updated>1578573314959</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="testring done.">
+      <created>1578573668789</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1578573668789</updated>
+    </task>
+    <task id="LOCAL-00005" summary="testring done.">
+      <created>1578573765308</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1578573765308</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -100,7 +115,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test done." />
-    <option name="LAST_COMMIT_MESSAGE" value="test done." />
+    <MESSAGE value="testring done." />
+    <option name="LAST_COMMIT_MESSAGE" value="testring done." />
   </component>
   <component name="WindowStateProjectService">
     <state x="390" y="0" key="#PHP" timestamp="1578506685119">
@@ -115,10 +131,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="413" y="112" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1578493823002" />
-    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1578573667882">
+    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1578573764261">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1578573667882" />
+    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1578573764261" />
     <state x="463" y="120" key="FileChooserDialogImpl" timestamp="1578492544308">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -127,10 +143,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="517" y="288" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1578572499693" />
-    <state x="275" y="98" key="Vcs.Push.Dialog.v2" timestamp="1578573682938">
+    <state x="275" y="98" key="Vcs.Push.Dialog.v2" timestamp="1578573775051">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="98" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1578573682938" />
+    <state x="275" y="98" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1578573775051" />
     <state x="92" y="92" width="1182" height="544" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1578573653280">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

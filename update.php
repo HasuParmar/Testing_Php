@@ -3,6 +3,7 @@
     require 'vendor/autoload.php';
     $connection = new MongoDB\Client("mongodb://127.0.0.1/");
     $id = new MongoDB\BSON\ObjectId($id);
+    //var_dump($id);
     $db = $connection->demoadd;
     $show = $db->emp->findOne(array('_id' => $id));
 ?>
