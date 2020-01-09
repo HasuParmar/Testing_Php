@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5a557afe-f033-4361-a65a-3b5949695684" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/testing.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,6 +67,7 @@
       <workItem from="1578568106701" duration="557000" />
       <workItem from="1578568683771" duration="307000" />
       <workItem from="1578569014474" duration="1877000" />
+      <workItem from="1578570932525" duration="662000" />
     </task>
     <servers />
   </component>
@@ -94,10 +95,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="517" y="288" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1578570364900" />
-    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1578569035961">
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1578570933176">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1578569035961" />
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1578570933176" />
     <state x="452" y="0" key="com.jetbrains.php.test.PhpNewTestDialog" timestamp="1578493262061">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
