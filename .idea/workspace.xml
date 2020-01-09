@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5a557afe-f033-4361-a65a-3b5949695684" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/testings.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,7 +68,7 @@
       <workItem from="1578568106701" duration="557000" />
       <workItem from="1578568683771" duration="307000" />
       <workItem from="1578569014474" duration="1877000" />
-      <workItem from="1578570932525" duration="662000" />
+      <workItem from="1578570932525" duration="1075000" />
     </task>
     <servers />
   </component>
@@ -91,10 +92,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1578492544308" />
-    <state x="517" y="288" key="NewPhpFileDialog" timestamp="1578570364900">
+    <state x="517" y="288" key="NewPhpFileDialog" timestamp="1578571999148">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="517" y="288" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1578570364900" />
+    <state x="517" y="288" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1578571999148" />
     <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1578570933176">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
