@@ -66,7 +66,7 @@
       <workItem from="1578492356149" duration="12752000" />
       <workItem from="1578563414281" duration="1119000" />
       <workItem from="1578568106701" duration="557000" />
-      <workItem from="1578568683771" duration="194000" />
+      <workItem from="1578568683771" duration="307000" />
     </task>
     <servers />
   </component>
@@ -94,10 +94,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="517" y="288" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1578568864749" />
-    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1578568684092">
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1578569035961">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1578568684092" />
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1578569035961" />
     <state x="452" y="0" key="com.jetbrains.php.test.PhpNewTestDialog" timestamp="1578493262061">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
